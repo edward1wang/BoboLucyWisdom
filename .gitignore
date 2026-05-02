@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# MkDocs
+site/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.tmp
+EOF
+
+# Databases
+*.db
+*.sqlite
+
+# Submodules (keep separate)
+teams-chat-exporter/
+
+# Large/unrelated projects (not part of wiki)
+nmap-7.94/
+gbrain-ollama-patch/
+mananotes-clips/
+personal-kb-skill/
+gbrain_diagram.py
+gbrain_relationship_graph.mmd
+gbrain_relationship_graph.svg
+accounts.db
+
+# Stray transcript files (should be in docs/raw/)
+black-secret-project-episode3-nixon.md
+black-secret-project-episode3-nixon-zh.md
+
+# Keep these (wiki infrastructure)
+!docs/
+!mkdocs.yml
+!fix_wikilinks.py
+!build_mkdocs.py
+!bobolucy_nightly_extract.py
+!.github/
