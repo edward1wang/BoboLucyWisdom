@@ -1,0 +1,47 @@
+site_name: "Bobo Lucy Wisdom"
+site_description: "Bilingual health & wellness knowledge wiki"
+site_author: "Bobo Lucy"
+docs_dir: docs
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - meta
+  - tables
+
+nav:
+  - Home: index.md
+  - 中文: index-zh.md
+  - Concepts: concepts/index.md
+  - Entities: entities/index.md
+  - Raw: raw/index.md
+  - Schema: SCHEMA.md
