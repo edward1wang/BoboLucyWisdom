@@ -56,3 +56,4 @@ black-secret-project-episode3-nixon-zh.md
 !build_mkdocs.py
 !bobolucy_nightly_extract.py
 !.github/
+fix_wikilinks.py
