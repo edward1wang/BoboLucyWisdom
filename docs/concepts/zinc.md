@@ -1,3 +1,0 @@
-# Zinc
-
-Content pending...

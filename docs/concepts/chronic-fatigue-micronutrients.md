@@ -54,3 +54,8 @@ Most people assume fatigue is a sleep problem. Often it's not. Even 8 hours of s
 
 - Gary Brecka clinical observations
 - @thegarybrecka X post
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md.md)
+

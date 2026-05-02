@@ -46,3 +46,8 @@ Charlie Munger: "Whenever you feel a situation or someone is ruining your life, 
 
 - Charlie Munger quote
 - @BoboLucyWisdom "心灵自由之路" series
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-01-每当你觉得某种情况或某个人正在毁掉你的生活时实际上是你自己在-2050092858351157333.md.md)
+

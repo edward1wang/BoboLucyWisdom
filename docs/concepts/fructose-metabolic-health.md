@@ -74,3 +74,8 @@ Even without eating fructose, body can manufacture it via **polyol pathway**:
 
 - *Nature Metabolism* fructose review (2025)
 - @BoboLucyWisdom health thread
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md.md)
+

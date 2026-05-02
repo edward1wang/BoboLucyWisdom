@@ -1,3 +1,0 @@
-# Social Connection
-
-Content pending...

@@ -1,3 +1,0 @@
-# Calcium Absorption
-
-Content pending...

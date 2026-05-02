@@ -1,3 +1,0 @@
-# NAFLD
-
-Content pending...

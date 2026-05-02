@@ -68,3 +68,10 @@ Dr. Angus Dalgleish (oncologist): Vitamin D supplementation improves immunothera
 - Dr. Angus Dalgleish clinical observations
 - Harvard 43-year coffee/dementia study (n=131,821)
 - @ShiningScience timing guidelines
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md.md)
+- [↩ X Post](../../../raw/x-posts/2026-05-01-没人会告诉你防晒霜的这些_维生素_D_是在_UVB_射线照射-2050115504384467117.md.md)
+- [↩ X Post](../../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md.md)
+

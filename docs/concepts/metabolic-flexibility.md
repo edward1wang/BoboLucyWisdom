@@ -1,3 +1,0 @@
-# Metabolic Flexibility
-
-Content pending...

@@ -1,3 +1,0 @@
-# Positive Psychology
-
-Content pending...

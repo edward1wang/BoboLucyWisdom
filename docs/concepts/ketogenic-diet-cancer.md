@@ -69,3 +69,8 @@ Cannot be patented → no pharmaceutical profit → limited mainstream adoption 
 - Fred case study (metastatic cancer remission)
 - Glioblastoma clinical trials
 - @SamaHoole content
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553.md.md)
+

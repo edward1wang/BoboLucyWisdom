@@ -52,3 +52,8 @@ If polyphenols were the mechanism, decaf would show partial effect. It shows **z
 
 - Harvard longitudinal study (43 years, n=131,821)
 - @aakashgupta summary
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md.md)
+

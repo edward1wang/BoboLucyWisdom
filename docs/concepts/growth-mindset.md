@@ -1,3 +1,0 @@
-# Growth Mindset
-
-Content pending...

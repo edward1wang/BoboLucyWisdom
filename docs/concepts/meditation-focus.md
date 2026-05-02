@@ -52,3 +52,8 @@ source_posts:
 
 - @BoboLucyWisdom meditation guidance
 - General mindfulness research
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532.md.md)
+

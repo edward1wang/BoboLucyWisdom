@@ -1,3 +1,0 @@
-# Wardenclyffe Tower
-
-Content pending...

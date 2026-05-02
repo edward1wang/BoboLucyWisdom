@@ -1,3 +1,0 @@
-# Creativity Protocols
-
-Content pending...

@@ -1,3 +1,0 @@
-# Montauk Project
-
-Content pending...

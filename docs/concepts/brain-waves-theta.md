@@ -54,3 +54,8 @@ Five brain wave frequencies correspond to different states of consciousness. The
 - Neuroscience literature on brain wave states
 - Creative cognition research
 - @BoboLucyWisdom "心灵自由之路" series
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-01-我们有五种脑电波当处于西塔波时你的潜意识门户大开直觉力爆棚很-2050168356846842234.md.md)
+

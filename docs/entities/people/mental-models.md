@@ -1,3 +1,0 @@
-# Mental Models
-
-Content pending...

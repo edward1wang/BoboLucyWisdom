@@ -54,3 +54,8 @@ Low testosterone linked to fatigue, ED, muscle loss, depression, and cardiovascu
 - Harvard 2021 follicle stem cell study
 - @Listen__Son content
 - Multiple RCTs cited in original post
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md.md)
+

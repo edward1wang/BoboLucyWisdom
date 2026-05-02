@@ -58,3 +58,8 @@ Taking vitamins at optimal times significantly improves absorption and utilizati
 ## Sources
 
 - @ShiningScience timing guidelines
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-04-30-在合适的时间服用维生素可以显著提高身体对维生素的吸收和利用率-2049866368598822975.md.md)
+

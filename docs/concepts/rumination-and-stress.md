@@ -49,3 +49,8 @@ Physical interruption resets the prefrontal cortex:
 
 - Zurich neuroscientist research (via @BoboLucyWisdom)
 - Case study of overworked physician
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-02-一个苏黎世神经学家说了一句颠覆认知的话_大脑不是被压力累垮的-2050432594899345596.md.md)
+

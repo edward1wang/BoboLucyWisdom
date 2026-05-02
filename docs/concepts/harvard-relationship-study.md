@@ -56,3 +56,8 @@ Most people optimize career/wealth at ages 30-40, neglecting relationships. The 
 
 - Harvard Study of Adult Development (1938-present)
 - George Vaillant longitudinal analysis
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md.md)
+

@@ -1,3 +1,0 @@
-# Metabolic Syndrome
-
-Content pending...

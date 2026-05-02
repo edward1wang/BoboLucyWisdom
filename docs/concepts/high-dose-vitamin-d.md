@@ -58,3 +58,8 @@ source_posts:
 
 - Dr. Eric Berg protocol
 - @BoboLucyWisdom vitamin D series
+
+### Original Source Files
+
+- [↩ X Post](../../../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081.md.md)
+

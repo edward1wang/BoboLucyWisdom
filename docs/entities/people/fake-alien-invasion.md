@@ -1,3 +1,0 @@
-# Fake Alien Invasion
-
-Content pending...

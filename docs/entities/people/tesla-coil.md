@@ -1,3 +1,0 @@
-# Tesla Coil
-
-Content pending...
