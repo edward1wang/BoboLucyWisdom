@@ -1,12 +1,17 @@
 ---
 title: 自噬
-chinese_name: "自噬"
+chinese_name: 自噬
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [longevity, fasting, cellular-health, detoxification]
+tags:
+- longevity
+- fasting
+- cellular-health
+- detoxification
+source_posts:
+- 2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553.md
 ---
-
 # 自噬
 
 细胞「自我吞噬」过程。细胞在营养匮乏期间回收受损成分。
@@ -47,3 +52,7 @@ tags: [longevity, fasting, cellular-health, detoxification]
 
 - 大隅良典诺贝尔奖（2016）
 - 禁食研究文献
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553.md)

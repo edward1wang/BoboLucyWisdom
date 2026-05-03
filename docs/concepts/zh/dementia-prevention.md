@@ -1,12 +1,19 @@
 ---
 title: 痴呆预防
-chinese_name: "痴呆预防"
+chinese_name: 痴呆预防
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [brain-health, longevity, lifestyle, cognitive-decline]
+tags:
+- brain-health
+- longevity
+- lifestyle
+- cognitive-decline
+source_posts:
+- 2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md
+- 2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md
+- 2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md
 ---
-
 # 痴呆预防
 
 阿尔茨海默病和认知衰退并非不可避免。多个可改变的风险因素。
@@ -40,3 +47,9 @@ tags: [brain-health, longevity, lifestyle, cognitive-decline]
 
 - 哈佛纵向研究
 - 《柳叶刀》痴呆预防委员会
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md)
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md)

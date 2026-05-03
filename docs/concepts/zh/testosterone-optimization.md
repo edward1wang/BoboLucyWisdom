@@ -1,12 +1,18 @@
 ---
 title: 睾酮优化
-chinese_name: "睾酮优化"
+chinese_name: 睾酮优化
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [hormones, men's-health, fitness, longevity, supplements]
+tags:
+- hormones
+- men's-health
+- fitness
+- longevity
+- supplements
+source_posts:
+- 2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md
 ---
-
 # 睾酮优化
 
 无需药物干预即可维持健康睾酮水平的自然方法。
@@ -53,3 +59,7 @@ tags: [hormones, men's-health, fitness, longevity, supplements]
 - 1996 Prasad锌研究
 - 2024维生素D荟萃分析
 - Gary Brecka框架
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md)

@@ -1,12 +1,18 @@
 ---
 title: 胰岛素抵抗
-chinese_name: "胰岛素抵抗"
+chinese_name: 胰岛素抵抗
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [metabolic-health, diabetes, diet, blood-sugar]
+tags:
+- metabolic-health
+- diabetes
+- diet
+- blood-sugar
+source_posts:
+- 2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581.md
+- 2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md
 ---
-
 # 胰岛素抵抗
 
 细胞停止对胰岛素正常响应。血糖保持高位，胰岛素保持高位 → 代谢功能障碍。
@@ -50,3 +56,8 @@ tags: [metabolic-health, diabetes, diet, blood-sugar]
 
 - 代谢综合征研究
 - @BoboLucyWisdom禁食警告
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md)

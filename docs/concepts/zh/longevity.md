@@ -1,12 +1,17 @@
 ---
 title: 长寿
-chinese_name: "长寿"
+chinese_name: 长寿
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [longevity, aging, healthspan, lifestyle]
+tags:
+- longevity
+- aging
+- healthspan
+- lifestyle
+source_posts:
+- 2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md
 ---
-
 # 长寿
 
 延长健康寿命（健康期），而非仅仅增加年数。
@@ -39,3 +44,7 @@ tags: [longevity, aging, healthspan, lifestyle]
 
 - 哈佛成人发展研究
 - Peter Attia长寿研究
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md)

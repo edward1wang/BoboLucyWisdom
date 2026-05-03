@@ -1,6 +1,6 @@
-site_name: "Bobo Lucy Wisdom"
+site_name: "@BoboLucyWisdom"
 site_description: "Bilingual health & wellness knowledge wiki"
-site_author: "Bobo Lucy"
+site_author: "@BoboLucyWisdom"
 docs_dir: docs
 theme:
   name: material
@@ -41,7 +41,3 @@ markdown_extensions:
 nav:
   - Home: index.md
   - 中文: index-zh.md
-  - Concepts: concepts/index.md
-  - Entities: entities/index.md
-  - Raw: raw/index.md
-  - Schema: SCHEMA.md

@@ -1,12 +1,17 @@
 ---
 title: 冥想
-chinese_name: "冥想"
+chinese_name: 冥想
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mental-health, stress, focus, mindfulness]
+tags:
+- mental-health
+- stress
+- focus
+- mindfulness
+source_posts:
+- 2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532.md
 ---
-
 # 冥想
 
 不带执念地观察思绪的心理训练。通往专注注意力和减少反刍的通道。
@@ -45,3 +50,7 @@ tags: [mental-health, stress, focus, mindfulness]
 
 - @BoboLucyWisdom冥想帖
 - 通用正念文献
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532.md)

@@ -3,9 +3,14 @@ title: 罗斯威尔事件
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [ufo, conspiracy, history, classified]
+tags:
+- ufo
+- conspiracy
+- history
+- classified
+source_posts:
+- 2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md
 ---
-
 # 罗斯威尔事件（1947年）
 
 1947年7月：新墨西哥州罗斯威尔附近农场坠落物体。历史上最著名的UFO事件。
@@ -50,3 +55,7 @@ tags: [ufo, conspiracy, history, classified]
 - 美国空军罗斯威尔报告（1997年）
 - Philip Corso上校《罗斯威尔之后的日子》
 - 各种证人证词
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md)

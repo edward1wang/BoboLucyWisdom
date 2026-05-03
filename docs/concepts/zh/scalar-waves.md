@@ -3,9 +3,14 @@ title: 标量波
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [physics, tesla, exotic-weapons, energy]
+tags:
+- physics
+- tesla
+- exotic-weapons
+- energy
+source_posts:
+- 2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md
 ---
-
 # 标量波
 
 特斯拉声称的可以无能量损失传播的非赫兹波。所谓"奇异武器"系统的基础。
@@ -48,3 +53,7 @@ tags: [physics, tesla, exotic-weapons, energy]
 - 特斯拉"远距传力"研究
 - 军方信息自由法文件
 - Bearden标量电磁理论
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md)

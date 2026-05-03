@@ -1,12 +1,18 @@
 ---
 title: 维生素K2
-chinese_name: "维生素K2"
+chinese_name: 维生素K2
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [supplements, vitamins, bone-health, heart-health]
+tags:
+- supplements
+- vitamins
+- bone-health
+- heart-health
+source_posts:
+- 2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md
+- 2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081.md
 ---
-
 # 维生素K2
 
 引导钙进入骨骼（而非动脉）的必需维生素。服用大剂量维生素D时的关键辅因子。
@@ -51,3 +57,8 @@ tags: [supplements, vitamins, bone-health, heart-health]
 
 - Dr. Eric Berg方案
 - 维生素D研究文献
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081.md)

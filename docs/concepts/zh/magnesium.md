@@ -1,12 +1,19 @@
 ---
 title: 镁
-chinese_name: "镁"
+chinese_name: 镁
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [supplements, minerals, sleep, stress, energy]
+tags:
+- supplements
+- minerals
+- sleep
+- stress
+- energy
+source_posts:
+- 2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md
+- 2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md
 ---
-
 # 镁
 
 参与300多种生化反应的必需矿物质。对能量产生、肌肉功能、神经传导和睡眠质量至关重要。
@@ -53,3 +60,8 @@ tags: [supplements, minerals, sleep, stress, energy]
 
 - Gary Brecka临床框架
 - 通用营养科学
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md)

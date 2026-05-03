@@ -1,12 +1,18 @@
 ---
 title: 铁
-chinese_name: "铁"
+chinese_name: 铁
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [supplements, minerals, blood, fatigue]
+tags:
+- supplements
+- minerals
+- blood
+- fatigue
+source_posts:
+- 2026-04-30-在合适的时间服用维生素可以显著提高身体对维生素的吸收和利用率-2049866368598822975.md
+- 2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md
 ---
-
 # 铁
 
 氧气运输（血红蛋白）和能量产生的必需矿物质。
@@ -49,3 +55,8 @@ tags: [supplements, minerals, blood, fatigue]
 - 红肉、肝脏
 - 菠菜、扁豆
 - 强化谷物
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-在合适的时间服用维生素可以显著提高身体对维生素的吸收和利用率-2049866368598822975.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md)

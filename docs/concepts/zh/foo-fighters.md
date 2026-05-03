@@ -1,15 +1,22 @@
 ---
 title: 二战不明飞行物
-chinese_name: "二战不明飞行物"
-aliases: [foo-fighters, 二战光球]
+chinese_name: 二战不明飞行物
+aliases:
+- foo-fighters
+- 二战光球
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [ufo, wwii, military-history, phenomena]
+tags:
+- ufo
+- wwii
+- military-history
+- phenomena
 source_videos:
-  - black-secret-project-ufo-origins-zh.md
+- black-secret-project-ufo-origins-zh.md
+source_posts:
+- 2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md
 ---
-
 # 二战不明飞行物（Foo Fighters）
 
 二战空战期间（1940年代）出现的发光球体。轴心国和盟军飞行员都有报告。
@@ -49,3 +56,7 @@ source_videos:
 
 - 解密二战飞行员报告
 - 吉米·杜立特档案
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md)

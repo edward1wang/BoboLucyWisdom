@@ -1,12 +1,17 @@
 ---
 title: DHT（二氢睾酮）
-chinese_name: "二氢睾酮"
+chinese_name: 二氢睾酮
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [hormones, hair-loss, prostate, testosterone]
+tags:
+- hormones
+- hair-loss
+- prostate
+- testosterone
+source_posts:
+- 2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md
 ---
-
 # DHT（二氢睾酮）
 
 从睾酮衍生的雄性激素。男性型脱发和前列腺增生的主要驱动因素。
@@ -44,3 +49,7 @@ tags: [hormones, hair-loss, prostate, testosterone]
 
 - 良性前列腺增生研究
 - 雄激素性脱发文献
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md)

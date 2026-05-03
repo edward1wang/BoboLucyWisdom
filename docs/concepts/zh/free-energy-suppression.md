@@ -3,9 +3,14 @@ title: 自由能源压制
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [conspiracy, energy, suppression, whistleblower]
+tags:
+- conspiracy
+- energy
+- suppression
+- whistleblower
+source_posts:
+- 2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md
 ---
-
 # 自由能源压制
 
 声称存在工作的超统一能源设备但被强大利益集团压制的说法。
@@ -48,3 +53,7 @@ tags: [conspiracy, energy, suppression, whistleblower]
 - Eugene Mallove《冰中之火》
 - Stanley Meyer专利
 - FBI特斯拉档案（解密部分）
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-川普近日在接受媒体采访时再次重申将近期尽可能多的释放UFO相-2049805978892157348.md)
