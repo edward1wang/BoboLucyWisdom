@@ -36,9 +36,9 @@ tags: [person, investor, philosopher, berkshire-hathaway]
 
 ## 相关
 
-- [受害者心态与自主权](../../../concepts/zh/victim-mentality-agency.md) —— 他观点的应用
-- [思维模型](mental-models.md) —— 决策框架
-- [沃伦·巴菲特](../../../raw/articles/warren-buffett.md) —— 商业伙伴
+- [受害者心态与自主权](../../../concepts/victim-mentality-agency) —— 他观点的应用
+- [思维模型](mental-models) —— 决策框架
+- [沃伦·巴菲特](../../../raw/articles/warren-buffett) —— 商业伙伴
 
 ## 来源
 

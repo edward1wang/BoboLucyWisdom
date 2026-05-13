@@ -43,10 +43,10 @@ source_posts:
 
 ## 相关
 
-- [腺苷](adenosine.md) — 神经递质机制
-- [痴呆预防](dementia-prevention.md) — 更广泛的策略
-- [抗氧化剂](antioxidants.md) — 咖啡多酚
-- [咖啡因](caffeine.md) — 机制详情
+- [腺苷](adenosine) — 神经递质机制
+- [痴呆预防](../dementia-prevention) — 更广泛的策略
+- [抗氧化剂](antioxidants) — 咖啡多酚
+- [咖啡因](caffeine) — 机制详情
 
 ## 来源
 
@@ -55,5 +55,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096)
 

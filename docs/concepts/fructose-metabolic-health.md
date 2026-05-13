@@ -65,10 +65,10 @@ Even without eating fructose, body can manufacture it via **polyol pathway**:
 
 ## Related
 
-- [metabolic-syndrome](metabolic-syndrome.md) — Clinical outcome
-- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer.md) — Alternative fuel strategy
-- [non-alcoholic-fatty-liver-disease](non-alcoholic-fatty-liver-disease.md) — Result of excess fructose
-- [insulin-resistance](zh/insulin-resistance.md) — Pathway to diabetes
+- [metabolic-syndrome](metabolic-syndrome) — Clinical outcome
+- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer) — Alternative fuel strategy
+- [non-alcoholic-fatty-liver-disease](non-alcoholic-fatty-liver-disease) — Result of excess fructose
+- [insulin-resistance](insulin-resistance) — Pathway to diabetes
 
 ## Sources
 
@@ -77,5 +77,5 @@ Even without eating fructose, body can manufacture it via **polyol pathway**:
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757)
 

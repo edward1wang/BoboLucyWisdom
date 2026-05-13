@@ -33,9 +33,9 @@ tags: [person, biochemistry, oncology, nobel-prize]
 
 ## 相关
 
-- [癌症的生酮饮食治疗](../../../concepts/zh/ketogenic-diet-cancer.md) —— 他工作的应用
-- [线粒体功能障碍](mitochondrial-dysfunction.md) —— 细胞机制
-- [代谢灵活性](metabolic-flexibility.md) —— 癌细胞所缺乏的
+- [癌症的生酮饮食治疗](../../../concepts/zh/ketogenic-diet-cancer) —— 他工作的应用
+- [线粒体功能障碍](mitochondrial-dysfunction) —— 细胞机制
+- [代谢灵活性](metabolic-flexibility) —— 癌细胞所缺乏的
 
 ## 来源
 

@@ -44,9 +44,9 @@ He allegedly witnessed experiment, then worked on classified follow-up projects.
 
 ## Related
 
-- [thomas-townsend-brown](../entities/people/zh/thomas-townsend-brown.md) — Alleged witness
-- [nikola-tesla](../entities/people/zh/nikola-tesla.md) — Technology claimed
-- [montauk-project](montauk-project.md) — Alleged sequel
+- [thomas-townsend-brown](../entities/people/zh/thomas-townsend-brown) — Alleged witness
+- [nikola-tesla](../entities/people/zh/nikola-tesla) — Technology claimed
+- [montauk-project](montauk-project) — Alleged sequel
 
 ## Sources
 

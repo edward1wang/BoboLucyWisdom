@@ -40,7 +40,7 @@ tags: [person, inventor, water-fuel, suppressed]
 
 ## 相关
 
-- [Stanley Meyer](stanley-meyer.md) — 英文版
+- [Stanley Meyer](entities-people-zh-stanley-meyer) — 英文版
 
 ## 来源
 

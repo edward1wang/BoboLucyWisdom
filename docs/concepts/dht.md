@@ -37,9 +37,9 @@ Androgen hormone derived from testosterone. Primary driver of male pattern baldn
 
 ## Related
 
-- [hair-loss-reversal](zh/hair-loss-reversal.md) — Main application
-- [testosterone-optimization](zh/testosterone-optimization.md) — Parent hormone
-- [scalp-health](scalp-health.md) — Topical treatments
+- [hair-loss-reversal](zh/hair-loss-reversal) — Main application
+- [testosterone-optimization](zh/testosterone-optimization) — Parent hormone
+- [scalp-health](scalp-health) — Topical treatments
 
 ## Sources
 

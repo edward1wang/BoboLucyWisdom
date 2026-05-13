@@ -42,7 +42,7 @@ tags: [person, scientist, nazi, nasa, rocket]
 
 ## 相关
 
-- [尼古拉·特斯拉](nikola-tesla.md) — 发明家
+- [尼古拉·特斯拉](entities-people-zh-nikola-tesla) — 发明家
 
 ## 来源
 

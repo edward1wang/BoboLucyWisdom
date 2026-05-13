@@ -45,9 +45,9 @@ source_posts:
 
 ## 相关
 
-- [二氢睾酮](dht.md) — 二氢睾酮
-- [头皮健康](scalp-health.md) — 更广泛的主题
-- [睾酮优化](testosterone-optimization.md) — 详细方案
+- [二氢睾酮](../dht) — 二氢睾酮
+- [头皮健康](scalp-health) — 更广泛的主题
+- [睾酮优化](testosterone-optimization) — 详细方案
 
 ## 来源
 
@@ -57,5 +57,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-哈佛科学家发现重新长出头发的关键_35岁后三分之二男性都会遭-2050455247609585739)
 

@@ -41,9 +41,9 @@ Physical interruption resets the prefrontal cortex:
 
 ## Related
 
-- [chronic-fatigue](../raw/articles/chronic-fatigue.md) — Related condition
-- [nervous-system-regulation](../raw/articles/nervous-system-regulation.md) — Broader topic
-- [mindfulness](zh/mindfulness.md) — Alternative approach
+- [chronic-fatigue](../raw/articles/chronic-fatigue) — Related condition
+- [nervous-system-regulation](../raw/articles/nervous-system-regulation) — Broader topic
+- [mindfulness](mindfulness) — Alternative approach
 
 ## Sources
 
@@ -52,5 +52,5 @@ Physical interruption resets the prefrontal cortex:
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-02-一个苏黎世神经学家说了一句颠覆认知的话_大脑不是被压力累垮的-2050432594899345596.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-02-一个苏黎世神经学家说了一句颠覆认知的话_大脑不是被压力累垮的-2050432594899345596)
 

@@ -40,8 +40,8 @@ tags: [military, secret-tech, tesla, directed-energy]
 
 ## 相关
 
-- [Nikola Tesla](../../entities/people/zh/nikola-tesla.md) — 发明者
-- [Scalar Waves](scalar-waves.md) — 理论基础
+- [Nikola Tesla](entities-people-zh-nikola-tesla) — 发明者
+- [Scalar Waves](concepts-zh-scalar-waves) — 理论基础
 
 ## 来源
 

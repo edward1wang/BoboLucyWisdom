@@ -39,9 +39,9 @@ US program (1945-1959) that recruited 1,600+ German scientists, engineers, and t
 
 ## Related
 
-- [wernher-von-braun](../entities/people/zh/wernher-von-braun.md) — Key figure
-- [roswell-incident](zh/roswell-incident.md) — 1947, post-Paperclip
-- [nazi-anti-gravity](nazi-anti-gravity.md) — Tech allegedly recovered
+- [wernher-von-braun](../entities/people/wernher-von-braun) — Key figure
+- [roswell-incident](zh/roswell-incident) — 1947, post-Paperclip
+- [nazi-anti-gravity](nazi-anti-gravity) — Tech allegedly recovered
 
 ## Sources
 

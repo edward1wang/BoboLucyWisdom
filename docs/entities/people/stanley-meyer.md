@@ -41,9 +41,9 @@ Died of cerebral aneurysm after drinking grapefruit juice at dinner with Belgian
 
 ## Related
 
-- [water-fuel-cell](water-fuel-cell.md) — Technology
-- [free-energy-suppression](../../concepts/zh/free-energy-suppression.md) — Pattern
-- [royal-navy-report-1993](royal-navy-report-1993.md) — Independent evaluation
+- [water-fuel-cell](water-fuel-cell) — Technology
+- [free-energy-suppression](../../concepts/zh/free-energy-suppression) — Pattern
+- [royal-navy-report-1993](royal-navy-report-1993) — Independent evaluation
 
 ## Sources
 

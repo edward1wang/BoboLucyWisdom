@@ -50,10 +50,10 @@ Taking vitamins at optimal times significantly improves absorption and utilizati
 
 ## Related
 
-- [vitamin-d](zh/vitamin-d.md) — Morning dosing
-- [magnesium](zh/magnesium.md) — Evening dosing
-- [iron](zh/iron.md) — Empty stomach + Vitamin C
-- [omega-3](omega-3.md) — Morning with food
+- [vitamin-d](zh/vitamin-d) — Morning dosing
+- [magnesium](magnesium) — Evening dosing
+- [iron](zh/iron) — Empty stomach + Vitamin C
+- [omega-3](omega-3) — Morning with food
 
 ## Sources
 
@@ -61,5 +61,5 @@ Taking vitamins at optimal times significantly improves absorption and utilizati
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-04-30-在合适的时间服用维生素可以显著提高身体对维生素的吸收和利用率-2049866368598822975.md.md)
+- [↩ X Post](../raw/x-posts/2026-04-30-在合适的时间服用维生素可以显著提高身体对维生素的吸收和利用率-2049866368598822975)
 

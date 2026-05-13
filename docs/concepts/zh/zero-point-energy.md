@@ -41,8 +41,8 @@ source_videos:
 
 ## 相关
 
-- [Zero-Point Energy](../zero-point-energy.md) — 英文版
-- [Cold Fusion](../cold-fusion.md) — 相关被压制技术
+- [Zero-Point Energy](concepts-zero-point-energy) — 英文版
+- [Cold Fusion](concepts-cold-fusion) — 相关被压制技术
 
 ## 来源
 

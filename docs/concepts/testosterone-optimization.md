@@ -44,10 +44,10 @@ Low testosterone associated with:
 
 ## Related
 
-- [hair-loss-reversal](zh/hair-loss-reversal.md) — DHT is downstream of T
-- [dht](zh/dht.md) — T converts to DHT
-- [vitamin-d](zh/vitamin-d.md) — Hormonal precursor
-- [zinc](zinc.md) — Cofactor
+- [hair-loss-reversal](zh/hair-loss-reversal) — DHT is downstream of T
+- [dht](dht) — T converts to DHT
+- [vitamin-d](zh/vitamin-d) — Hormonal precursor
+- [zinc](zinc) — Cofactor
 
 ## Sources
 

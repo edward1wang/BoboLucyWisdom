@@ -57,10 +57,10 @@ Dr. Angus Dalgleish (oncologist): Vitamin D supplementation improves immunothera
 
 ## Related
 
-- [calcium-absorption](calcium-absorption.md) — Bone health
-- [magnesium](zh/magnesium.md) — Cofactor
-- [vitamin-k2](zh/vitamin-k2.md) — Synergistic
-- [dementia-prevention](zh/dementia-prevention.md) — Broader topic
+- [calcium-absorption](calcium-absorption) — Bone health
+- [magnesium](magnesium) — Cofactor
+- [vitamin-k2](zh/vitamin-k2) — Synergistic
+- [dementia-prevention](dementia-prevention) — Broader topic
 
 ## Sources
 
@@ -71,7 +71,7 @@ Dr. Angus Dalgleish (oncologist): Vitamin D supplementation improves immunothera
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189.md.md)
-- [↩ X Post](../../../raw/x-posts/2026-05-01-没人会告诉你防晒霜的这些_维生素_D_是在_UVB_射线照射-2050115504384467117.md.md)
-- [↩ X Post](../../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-02-中年维生素D水平低老年更容易神经退化得痴呆16年研究提醒我们-2050394845160911189)
+- [↩ X Post](../raw/x-posts/2026-05-01-没人会告诉你防晒霜的这些_维生素_D_是在_UVB_射线照射-2050115504384467117)
+- [↩ X Post](../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096)
 

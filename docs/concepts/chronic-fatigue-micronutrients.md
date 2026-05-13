@@ -44,11 +44,11 @@ Most people assume fatigue is a sleep problem. Often it's not. Even 8 hours of s
 
 ## Related
 
-- [vitamin-d](zh/vitamin-d.md) — Most common deficiency
-- [magnesium](zh/magnesium.md) — Role in energy
-- [b12](b12.md) — Nerve health
-- [iron](zh/iron.md) — Oxygen transport
-- [functional-medicine](functional-medicine.md) — Testing approach
+- [vitamin-d](zh/vitamin-d) — Most common deficiency
+- [magnesium](magnesium) — Role in energy
+- [b12](b12) — Nerve health
+- [iron](zh/iron) — Oxygen transport
+- [functional-medicine](functional-medicine) — Testing approach
 
 ## Sources
 
@@ -57,5 +57,5 @@ Most people assume fatigue is a sleep problem. Often it's not. Even 8 hours of s
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-大多数人认为疲劳是睡眠问题造成的_但通常情况下并非如此_如果-2050077757959291076)
 

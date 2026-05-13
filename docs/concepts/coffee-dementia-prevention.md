@@ -43,10 +43,10 @@ If polyphenols were the mechanism, decaf would show partial effect. It shows **z
 
 ## Related
 
-- [adenosine](adenosine.md) — Neurotransmitter mechanism
-- [dementia-prevention](zh/dementia-prevention.md) — Broader strategies
-- [antioxidants](antioxidants.md) — Coffee polyphenols
-- [caffeine](caffeine.md) — Mechanism details
+- [adenosine](adenosine) — Neurotransmitter mechanism
+- [dementia-prevention](dementia-prevention) — Broader strategies
+- [antioxidants](antioxidants) — Coffee polyphenols
+- [caffeine](caffeine) — Mechanism details
 
 ## Sources
 
@@ -55,5 +55,5 @@ If polyphenols were the mechanism, decaf would show partial effect. It shows **z
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-早晨喝咖啡能降低18的痴呆风险而喝脱咖啡因咖啡则没有任何效果-2050062663162397096)
 

@@ -38,9 +38,9 @@ Large social media presence (@thegarybrecka) sharing practical health optimizati
 
 ## Related
 
-- [chronic-fatigue-micronutrients](../../concepts/zh/chronic-fatigue-micronutrients.md) — His framework
-- [functional-medicine](functional-medicine.md) — Approach
-- [micronutrient-testing](micronutrient-testing.md) — Diagnostic emphasis
+- [chronic-fatigue-micronutrients](../../concepts/zh/chronic-fatigue-micronutrients) — His framework
+- [functional-medicine](functional-medicine) — Approach
+- [micronutrient-testing](micronutrient-testing) — Diagnostic emphasis
 
 ## Sources
 

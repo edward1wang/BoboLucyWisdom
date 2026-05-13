@@ -275,7 +275,7 @@ tags: [moon, lunar-mysteries, hollow-moon, ancient-civilization, catastrophe, co
 4. 熔岩管解释与月球环境矛盾
 
 ## 相关文件
-- 英文分析版: [moon-mysteries-origin-archaeology](moon-mysteries-origin-archaeology.md)
+- 英文分析版: [moon-mysteries-origin-archaeology](moon-mysteries-origin-archaeology)
 
 ---
 *原始中文 transcript，2026-04-29*

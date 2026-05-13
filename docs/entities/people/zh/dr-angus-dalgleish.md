@@ -32,9 +32,9 @@ tags: [person, oncologist, immunologist, vitamin-d-advocate]
 
 ## 相关
 
-- [维生素D](../../../concepts/zh/vitamin-d.md) —— 他的主要倡导
-- [免疫治疗](immunotherapy.md) —— 他发现D联系的领域
-- [癌症代谢治疗](cancer-metabolic-therapy.md) —— 相邻方法
+- [维生素D](../../../concepts/zh/vitamin-d) —— 他的主要倡导
+- [免疫治疗](immunotherapy) —— 他发现D联系的领域
+- [癌症代谢治疗](cancer-metabolic-therapy) —— 相邻方法
 
 ## 来源
 

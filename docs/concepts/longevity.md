@@ -31,10 +31,10 @@ Extending healthy lifespan (healthspan), not just chronological years.
 
 ## Related
 
-- [harvard-relationship-study](zh/harvard-relationship-study.md) — Social pillar
-- [intermittent-fasting](zh/intermittent-fasting.md) — Autophagy trigger
-- [vitamin-d](zh/vitamin-d.md) — Fundamental
-- [fructose-metabolic-health](zh/fructose-metabolic-health.md) — Avoid
+- [harvard-relationship-study](harvard-relationship-study) — Social pillar
+- [intermittent-fasting](zh/intermittent-fasting) — Autophagy trigger
+- [vitamin-d](zh/vitamin-d) — Fundamental
+- [fructose-metabolic-health](fructose-metabolic-health) — Avoid
 
 ## Sources
 

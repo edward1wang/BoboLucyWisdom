@@ -49,8 +49,8 @@ source_posts:
 
 ## 相关
 
-- [Foo Fighters](../foo-fighters.md) — 英文版
-- [Roswell Incident](../roswell-incident.md) — 延续，1947年
+- [Foo Fighters](concepts-foo-fighters) — 英文版
+- [Roswell Incident](concepts-roswell-incident) — 延续，1947年
 
 ## 来源
 

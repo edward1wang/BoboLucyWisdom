@@ -41,10 +41,10 @@ If you have **insulin resistance** (need carbs every meal, dizzy without food), 
 
 ## Related
 
-- [insulin-resistance](zh/insulin-resistance.md) — Prerequisite condition
-- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer.md) — Overlapping metabolic strategy
-- [metabolic-flexibility](metabolic-flexibility.md) — The goal
-- [autophagy](zh/autophagy.md) — Cellular cleanup process
+- [insulin-resistance](insulin-resistance) — Prerequisite condition
+- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer) — Overlapping metabolic strategy
+- [metabolic-flexibility](metabolic-flexibility) — The goal
+- [autophagy](zh/autophagy) — Cellular cleanup process
 
 ## Sources
 
@@ -54,5 +54,5 @@ If you have **insulin resistance** (need carbs every meal, dizzy without food), 
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581)
 

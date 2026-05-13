@@ -41,10 +41,10 @@ source_posts:
 
 ## 相关
 
-- [正念](mindfulness.md) — 重叠练习
-- [反刍思维与压力](rumination-and-stress.md) — 冥想所对抗的
-- [冥想与专注力](meditation-focus.md) — 详细方案
-- [脑电波与西塔波状态](brain-waves-theta.md) — 脑波通道
+- [正念](concepts-zh-mindfulness) — 重叠练习
+- [反刍思维与压力](concepts-zh-rumination-and-stress) — 冥想所对抗的
+- [冥想与专注力](concepts-zh-meditation-focus) — 详细方案
+- [脑电波与西塔波状态](concepts-zh-brain-waves-theta) — 脑波通道
 
 ## 来源
 

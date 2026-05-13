@@ -63,7 +63,7 @@ Chinese documentary examining problems with dinosaur biology under current gravi
 ---
 
 ## Related Files
-- Chinese original: [prehistoric-giants-gravity-theory-zh](prehistoric-giants-gravity-theory-zh.md)
+- Chinese original: [prehistoric-giants-gravity-theory-zh](prehistoric-giants-gravity-theory-zh)
 
 ---
 *Analyzed from Chinese documentary, 2026-04-29*

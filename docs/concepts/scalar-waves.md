@@ -41,9 +41,9 @@ Video claims: Roswell recovery included scalar-based propulsion and weapons syst
 
 ## Related
 
-- [exotic-weapons](zh/exotic-weapons.md) — Military applications
-- [zero-point-energy](zh/zero-point-energy.md) — Energy extraction
-- [roswell-incident](zh/roswell-incident.md) — Tech alleged recovered
+- [exotic-weapons](exotic-weapons) — Military applications
+- [zero-point-energy](zh/zero-point-energy) — Energy extraction
+- [roswell-incident](zh/roswell-incident) — Tech alleged recovered
 
 ## Sources
 

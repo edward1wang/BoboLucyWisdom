@@ -50,8 +50,8 @@ source_posts:
 
 ## 相关
 
-- [维生素D](vitamin-d.md) — 必须与K2搭配
-- [大剂量维生素D3疗法](high-dose-vitamin-d.md) — 关键辅因子
+- [维生素D](concepts-zh-vitamin-d) — 必须与K2搭配
+- [大剂量维生素D3疗法](concepts-zh-high-dose-vitamin-d) — 关键辅因子
 
 ## 来源
 

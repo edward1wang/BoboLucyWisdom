@@ -38,9 +38,9 @@ Contradicted assumptions about wealth, IQ, genetics as longevity predictors.
 
 ## Related
 
-- [harvard-relationship-study](../../concepts/zh/harvard-relationship-study.md) — Key findings
-- [george-vaillant](../people/zh/george-vaillant.md) — Research director
-- [longevity](../../concepts/zh/longevity.md) — Broader field
+- [harvard-relationship-study](../../concepts/harvard-relationship-study) — Key findings
+- [george-vaillant](../people/zh/george-vaillant) — Research director
+- [longevity](../../concepts/longevity) — Broader field
 
 ## Sources
 

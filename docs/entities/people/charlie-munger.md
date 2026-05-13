@@ -36,9 +36,9 @@ Though primarily known for investing, his psychological insights—particularly 
 
 ## Related
 
-- [victim-mentality-agency](../../concepts/zh/victim-mentality-agency.md) — His key insight applied
-- [mental-models](mental-models.md) — Decision-making framework
-- [warren-buffett](../../raw/articles/warren-buffett.md) — Business partner
+- [victim-mentality-agency](../../concepts/victim-mentality-agency) — His key insight applied
+- [mental-models](mental-models) — Decision-making framework
+- [warren-buffett](../../raw/articles/warren-buffett) — Business partner
 
 ## Sources
 

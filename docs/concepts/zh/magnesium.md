@@ -53,8 +53,8 @@ source_posts:
 
 ## 相关
 
-- [慢性疲劳与微量营养素缺乏](chronic-fatigue-micronutrients.md) — 四大缺乏之一
-- [补剂服用时间](supplement-timing.md) — 晚上服用
+- [慢性疲劳与微量营养素缺乏](concepts-zh-chronic-fatigue-micronutrients) — 四大缺乏之一
+- [补剂服用时间](concepts-zh-supplement-timing) — 晚上服用
 
 ## 来源
 

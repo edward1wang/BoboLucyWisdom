@@ -43,10 +43,10 @@ source_posts:
 
 ## Related
 
-- [brain-waves-theta](zh/brain-waves-theta.md) — Deep meditation brain state
-- [mindfulness](zh/mindfulness.md) — Present-moment awareness
-- [flow-states](flow-states.md) — Peak performance
-- [rumination-and-stress](zh/rumination-and-stress.md) — Managing intrusive thoughts
+- [brain-waves-theta](zh/brain-waves-theta) — Deep meditation brain state
+- [mindfulness](mindfulness) — Present-moment awareness
+- [flow-states](flow-states) — Peak performance
+- [rumination-and-stress](rumination-and-stress) — Managing intrusive thoughts
 
 ## Sources
 
@@ -55,5 +55,5 @@ source_posts:
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532.md.md)
+- [↩ X Post](../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532)
 

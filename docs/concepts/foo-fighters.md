@@ -42,9 +42,9 @@ First widely-documented UFO phenomenon in modern military context. Led to establ
 
 ## Related
 
-- [roswell-incident](zh/roswell-incident.md) — Continuation, 1947
-- [mj-12](mj-12.md) — Eventual secrecy group
-- [operation-paperclip](zh/operation-paperclip.md) — Post-war German tech acquisition
+- [roswell-incident](zh/roswell-incident) — Continuation, 1947
+- [mj-12](mj-12) — Eventual secrecy group
+- [operation-paperclip](operation-paperclip) — Post-war German tech acquisition
 
 ## Sources
 

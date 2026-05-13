@@ -43,9 +43,9 @@ According to assistant Carol Rosin, von Braun warned about staged threats:
 
 ## Related
 
-- [operation-paperclip](../../concepts/zh/operation-paperclip.md) — How he entered US
-- [apollo-program](apollo-program.md) — His NASA achievement
-- [fake-alien-invasion](fake-alien-invasion.md) — Alleged warning
+- [operation-paperclip](../../concepts/operation-paperclip) — How he entered US
+- [apollo-program](apollo-program) — His NASA achievement
+- [fake-alien-invasion](fake-alien-invasion) — Alleged warning
 
 ## Sources
 

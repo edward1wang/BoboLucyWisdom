@@ -292,8 +292,8 @@ tags: [ufo, conspiracy, mj12, deep-state, roswell, psychological-warfare, milita
 ---
 
 ## 相关文件
-- 英文分析版: [black-secret-project-episode2](black-secret-project-episode2.md)
-- 第一集中文版: [black-secret-project-ufo-origins-zh](black-secret-project-ufo-origins-zh.md)
+- 英文分析版: [black-secret-project-episode2](black-secret-project-episode2)
+- 第一集中文版: [black-secret-project-ufo-origins-zh](black-secret-project-ufo-origins-zh)
 
 ---
 *原始中文 transcript，2026-04-29*

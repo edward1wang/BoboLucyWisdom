@@ -41,8 +41,8 @@ Essential mineral for oxygen transport (hemoglobin) and energy production.
 
 ## Related
 
-- [chronic-fatigue-micronutrients](zh/chronic-fatigue-micronutrients.md) — Part of Big Four
-- [supplement-timing](zh/supplement-timing.md) — Iron timing critical
+- [chronic-fatigue-micronutrients](zh/chronic-fatigue-micronutrients) — Part of Big Four
+- [supplement-timing](supplement-timing) — Iron timing critical
 
 ## Sources
 

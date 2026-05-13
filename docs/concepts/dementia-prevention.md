@@ -32,9 +32,9 @@ Alzheimer's and cognitive decline are not inevitable. Multiple modifiable risk f
 
 ## Related
 
-- [coffee-dementia-prevention](zh/coffee-dementia-prevention.md) — Specific research
-- [vitamin-d](zh/vitamin-d.md) — Brain health
-- [harvard-relationship-study](zh/harvard-relationship-study.md) — Social connection
+- [coffee-dementia-prevention](zh/coffee-dementia-prevention) — Specific research
+- [vitamin-d](zh/vitamin-d) — Brain health
+- [harvard-relationship-study](harvard-relationship-study) — Social connection
 
 ## Sources
 

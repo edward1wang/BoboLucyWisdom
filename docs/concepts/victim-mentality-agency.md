@@ -37,10 +37,10 @@ Charlie Munger: "Whenever you feel a situation or someone is ruining your life, 
 
 ## Related
 
-- [self-efficacy](../raw/articles/self-efficacy.md) — Belief in one's capabilities
-- [growth-mindset](growth-mindset.md) — Carol Dweck framework
-- [stoicism](../raw/articles/stoicism.md) — Philosophical foundation
-- [locus-of-control](../raw/articles/locus-of-control.md) — Psychological concept
+- [self-efficacy](../raw/articles/self-efficacy) — Belief in one's capabilities
+- [growth-mindset](growth-mindset) — Carol Dweck framework
+- [stoicism](../raw/articles/stoicism) — Philosophical foundation
+- [locus-of-control](../raw/articles/locus-of-control) — Psychological concept
 
 ## Sources
 
@@ -49,5 +49,5 @@ Charlie Munger: "Whenever you feel a situation or someone is ruining your life, 
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-每当你觉得某种情况或某个人正在毁掉你的生活时实际上是你自己在-2050092858351157333.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-每当你觉得某种情况或某个人正在毁掉你的生活时实际上是你自己在-2050092858351157333)
 

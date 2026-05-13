@@ -38,9 +38,9 @@ tags: [organization, research, longevity, psychology]
 
 ## 相关
 
-- [哈佛成人发展研究](../../../concepts/zh/harvard-relationship-study.md) —— 关键发现
-- [乔治·瓦利安特](../../people/zh/george-vaillant.md) —— 研究主任
-- [长寿](../../../concepts/zh/longevity.md) —— 更广泛的领域
+- [哈佛成人发展研究](../../../concepts/harvard-relationship-study) —— 关键发现
+- [乔治·瓦利安特](../../people/zh/george-vaillant) —— 研究主任
+- [长寿](../../../concepts/longevity) —— 更广泛的领域
 
 ## 来源
 

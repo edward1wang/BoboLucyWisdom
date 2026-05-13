@@ -49,10 +49,10 @@ source_posts:
 
 ## Related
 
-- [vitamin-d](zh/vitamin-d.md) — General overview
-- [vitamin-k2](zh/vitamin-k2.md) — Essential cofactor
-- [supplement-timing](zh/supplement-timing.md) — When to take
-- [dr-angus-dalgleish](../entities/people/zh/dr-angus-dalgleish.md) — Clinical immunotherapy context
+- [vitamin-d](zh/vitamin-d) — General overview
+- [vitamin-k2](zh/vitamin-k2) — Essential cofactor
+- [supplement-timing](supplement-timing) — When to take
+- [dr-angus-dalgleish](../entities/people/dr-angus-dalgleish) — Clinical immunotherapy context
 
 ## Sources
 
@@ -61,5 +61,5 @@ source_posts:
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081)
 

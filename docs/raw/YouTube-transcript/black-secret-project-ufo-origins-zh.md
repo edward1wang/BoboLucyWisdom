@@ -232,7 +232,7 @@ tags: [ufo, conspiracy, nazi, operation-paperclip, roswell, antigravity, wwii, h
 ---
 
 ## 相关文件
-- 英文分析版: [black-secret-project-ufo-origins](black-secret-project-ufo-origins.md)
+- 英文分析版: [black-secret-project-ufo-origins](black-secret-project-ufo-origins)
 
 ## 关键人物（中文）
 - **杰米·杜利特尔将军** — 调查Foo Fighters，向罗斯福汇报"行星际飞行器"

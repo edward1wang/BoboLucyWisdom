@@ -50,9 +50,9 @@ source_posts:
 
 ## 相关
 
-- [脱发逆转方案](hair-loss-reversal.md) — DHT是T的下游产物
-- [DHT](dht.md) — T转化为DHT
-- [维生素D](vitamin-d.md) — 激素前体
+- [脱发逆转方案](concepts-zh-hair-loss-reversal) — DHT是T的下游产物
+- [DHT](concepts-zh-dht) — T转化为DHT
+- [维生素D](concepts-zh-vitamin-d) — 激素前体
 
 ## 来源
 

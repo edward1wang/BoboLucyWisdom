@@ -65,10 +65,10 @@ source_posts:
 
 ## 相关
 
-- [代谢综合征](metabolic-syndrome.md) — 临床结果
-- [癌症的生酮饮食治疗](ketogenic-diet-cancer.md) — 替代燃料策略
-- [非酒精性脂肪肝](non-alcoholic-fatty-liver-disease.md) — 过量果糖的结果
-- [胰岛素抵抗](insulin-resistance.md) — 糖尿病途径
+- [代谢综合征](metabolic-syndrome) — 临床结果
+- [癌症的生酮饮食治疗](ketogenic-diet-cancer) — 替代燃料策略
+- [非酒精性脂肪肝](non-alcoholic-fatty-liver-disease) — 过量果糖的结果
+- [胰岛素抵抗](../insulin-resistance) — 糖尿病途径
 
 ## 来源
 
@@ -77,5 +77,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757)
 

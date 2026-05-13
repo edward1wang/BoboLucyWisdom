@@ -38,9 +38,9 @@ tags: [person, biohacker, functional-medicine, micronutrients]
 
 ## 相关
 
-- [慢性疲劳与微量营养素缺乏](../../../concepts/zh/chronic-fatigue-micronutrients.md) —— 他的框架
-- [功能医学](functional-medicine.md) —— 方法
-- [微量营养素检测](micronutrient-testing.md) —— 诊断重点
+- [慢性疲劳与微量营养素缺乏](../../../concepts/zh/chronic-fatigue-micronutrients) —— 他的框架
+- [功能医学](functional-medicine) —— 方法
+- [微量营养素检测](micronutrient-testing) —— 诊断重点
 
 ## 来源
 

@@ -44,9 +44,9 @@ source_posts:
 
 ## 相关
 
-- [间歇性禁食](intermittent-fasting.md) — 主要触发因素
-- [癌症的生酮饮食治疗](ketogenic-diet-cancer.md) — 持续酮症
-- [长寿](longevity.md) — 与衰老的关联
+- [间歇性禁食](concepts-zh-intermittent-fasting) — 主要触发因素
+- [癌症的生酮饮食治疗](concepts-zh-ketogenic-diet-cancer) — 持续酮症
+- [长寿](concepts-zh-longevity) — 与衰老的关联
 
 ## 来源
 

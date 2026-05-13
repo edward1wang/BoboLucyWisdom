@@ -42,9 +42,9 @@ If you have insulin resistance, **don't jump straight to fasting**. Start with l
 
 ## Related
 
-- [intermittent-fasting](zh/intermittent-fasting.md) — Primary tool
-- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer.md) — Very low carb
-- [fructose-metabolic-health](zh/fructose-metabolic-health.md) — Driver of resistance
+- [intermittent-fasting](zh/intermittent-fasting) — Primary tool
+- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer) — Very low carb
+- [fructose-metabolic-health](fructose-metabolic-health) — Driver of resistance
 
 ## Sources
 

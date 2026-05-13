@@ -42,9 +42,9 @@ Present-moment awareness without judgment. Foundation of mental clarity and emot
 
 ## Related
 
-- [meditation](zh/meditation.md) — Formal practice
-- [rumination-and-stress](zh/rumination-and-stress.md) — What mindfulness counters
-- [meditation-focus](zh/meditation-focus.md) — Focus aspect
+- [meditation](meditation) — Formal practice
+- [rumination-and-stress](rumination-and-stress) — What mindfulness counters
+- [meditation-focus](meditation-focus) — Focus aspect
 
 ## Sources
 

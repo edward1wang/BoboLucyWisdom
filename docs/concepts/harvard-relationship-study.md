@@ -47,10 +47,10 @@ Most people optimize career/wealth at ages 30-40, neglecting relationships. The 
 
 ## Related
 
-- [longevity](zh/longevity.md) — Broader factors
-- [social-connection](social-connection.md) — Mechanism
-- [loneliness](loneliness.md) — Health impact
-- [relationships](relationships.md) — Quality maintenance
+- [longevity](longevity) — Broader factors
+- [social-connection](social-connection) — Mechanism
+- [loneliness](loneliness) — Health impact
+- [relationships](relationships) — Quality maintenance
 
 ## Sources
 
@@ -59,5 +59,5 @@ Most people optimize career/wealth at ages 30-40, neglecting relationships. The 
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md.md)
+- [↩ X Post](../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601)
 

@@ -43,9 +43,9 @@ Chiropractor and nutrition educator with massive online following. Known for **k
 
 ## Related
 
-- [high-dose-vitamin-d](../../concepts/zh/high-dose-vitamin-d.md) — His protocol
-- [intermittent-fasting](../../concepts/zh/intermittent-fasting.md) — Core recommendation
-- [ketogenic-diet-cancer](../../concepts/zh/ketogenic-diet-cancer.md) — Adjacent approach
+- [high-dose-vitamin-d](../../concepts/zh/high-dose-vitamin-d) — His protocol
+- [intermittent-fasting](../../concepts/zh/intermittent-fasting) — Core recommendation
+- [ketogenic-diet-cancer](../../concepts/zh/ketogenic-diet-cancer) — Adjacent approach
 
 ## Sources
 

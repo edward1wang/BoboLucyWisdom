@@ -28,9 +28,9 @@ tags: [person, psychology, researcher, longevity]
 
 ## 相关
 
-- [哈佛成人发展研究](../../../concepts/zh/harvard-relationship-study.md) —— 他的主要研究
-- [长寿](../../../concepts/zh/longevity.md) —— 研究领域
-- [积极心理学](positive-psychology.md) —— 学科
+- [哈佛成人发展研究](../../../concepts/harvard-relationship-study) —— 他的主要研究
+- [长寿](../../../concepts/longevity) —— 研究领域
+- [积极心理学](positive-psychology) —— 学科
 
 ## 来源
 

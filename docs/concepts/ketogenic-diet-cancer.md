@@ -59,9 +59,9 @@ Cannot be patented → no pharmaceutical profit → limited mainstream adoption 
 
 ## Related
 
-- [intermittent-fasting](zh/intermittent-fasting.md) — Complementary approach
-- [metabolic-flexibility](metabolic-flexibility.md) — Core concept
-- [mitochondrial-health](mitochondrial-health.md) — Cellular level
+- [intermittent-fasting](zh/intermittent-fasting) — Complementary approach
+- [metabolic-flexibility](metabolic-flexibility) — Core concept
+- [mitochondrial-health](mitochondrial-health) — Cellular level
 
 ## Sources
 
@@ -72,5 +72,5 @@ Cannot be patented → no pharmaceutical profit → limited mainstream adoption 
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553.md.md)
+- [↩ X Post](../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553)
 

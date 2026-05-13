@@ -33,9 +33,9 @@ His work is now being revived as the **metabolic theory of cancer** gains recogn
 
 ## Related
 
-- [ketogenic-diet-cancer](../../concepts/zh/ketogenic-diet-cancer.md) — Application of his work
-- [mitochondrial-dysfunction](mitochondrial-dysfunction.md) — Cellular mechanism
-- [metabolic-flexibility](metabolic-flexibility.md) — What cancer cells lack
+- [ketogenic-diet-cancer](../../concepts/zh/ketogenic-diet-cancer) — Application of his work
+- [mitochondrial-dysfunction](mitochondrial-dysfunction) — Cellular mechanism
+- [metabolic-flexibility](metabolic-flexibility) — What cancer cells lack
 
 ## Sources
 

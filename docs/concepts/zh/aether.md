@@ -40,8 +40,8 @@ tags: [physics, history, energy, tesla]
 
 ## 相关
 
-- [Aether](aether.md) — 英文版
-- [零点能源](zero-point-energy.md) — 现代以太理论
+- [Aether](concepts-zh-aether) — 英文版
+- [零点能源](concepts-zh-zero-point-energy) — 现代以太理论
 
 ## 来源
 

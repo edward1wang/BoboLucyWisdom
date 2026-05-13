@@ -47,8 +47,8 @@ source_posts:
 
 ## 相关
 
-- [Roswell Incident](roswell-incident.md) — 英文版
-- [MJ-12](concepts/zh/mj-12.md) — 据称的控制小组
+- [Roswell Incident](concepts-zh-roswell-incident) — 英文版
+- [MJ-12](concepts-zh-mj-12) — 据称的控制小组
 
 ## 来源
 

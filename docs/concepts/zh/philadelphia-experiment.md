@@ -43,8 +43,8 @@ tags: [conspiracy, naval-history, classified, anti-gravity]
 
 ## 相关
 
-- [Philadelphia Experiment](philadelphia-experiment.md) — 英文版
-- [托马斯·汤森德·布朗](../../entities/people/zh/thomas-townsend-brown.md) — 据称的目击者
+- [Philadelphia Experiment](concepts-zh-philadelphia-experiment) — 英文版
+- [托马斯·汤森德·布朗](entities-people-zh-thomas-townsend-brown) — 据称的目击者
 
 ## 来源
 

@@ -6,7 +6,7 @@ Health, wellness, neuroscience, nutrition, biohacking, and longevity insights â€
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `intermittent-fasting.md`)
 - Every wiki page starts with YAML frontmatter
-- Use `[wikilinks](wikilinks.md)` to link between pages (minimum 2 outbound links per page)
+- Use `[wikilinks](wikilinks)` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md`
 - Every action must be appended to `log.md`
@@ -64,7 +64,7 @@ tags: [from taxonomy below]
 One page per notable entity. Include:
 - Overview / who/what it is
 - Key facts, credentials, affiliations
-- Relationships to other entities ([wikilinks](wikilinks.md))
+- Relationships to other entities ([wikilinks](wikilinks))
 - Source references (post links)
 
 ## Concept Pages
@@ -73,7 +73,7 @@ One page per concept or topic. Include:
 - Current state of knowledge
 - Evidence quality (studies cited)
 - Open questions or debates
-- Related concepts ([wikilinks](wikilinks.md))
+- Related concepts ([wikilinks](wikilinks))
 
 ## Comparison Pages
 Side-by-side analyses. Include:

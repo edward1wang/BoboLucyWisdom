@@ -43,9 +43,9 @@ July 1947: Object crashed on ranch near Roswell, New Mexico. Most famous UFO inc
 
 ## Related
 
-- [mj-12](mj-12.md) — Alleged control group
-- [operation-paperclip](zh/operation-paperclip.md) — German scientists present
-- [foo-fighters](zh/foo-fighters.md) — Earlier sightings
+- [mj-12](mj-12) — Alleged control group
+- [operation-paperclip](operation-paperclip) — German scientists present
+- [foo-fighters](zh/foo-fighters) — Earlier sightings
 
 ## Sources
 

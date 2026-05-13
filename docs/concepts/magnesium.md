@@ -46,10 +46,10 @@ Essential mineral involved in 300+ biochemical reactions. Critical for energy pr
 
 ## Related
 
-- [chronic-fatigue-micronutrients](zh/chronic-fatigue-micronutrients.md) — Part of Big Four
-- [sleep](sleep.md) — Sleep quality
-- [stress](stress.md) — HPA regulation
-- [supplement-timing](zh/supplement-timing.md) — Take in evening
+- [chronic-fatigue-micronutrients](zh/chronic-fatigue-micronutrients) — Part of Big Four
+- [sleep](sleep) — Sleep quality
+- [stress](rumination-and-stress) — HPA regulation
+- [supplement-timing](supplement-timing) — Take in evening
 
 ## Sources
 

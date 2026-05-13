@@ -39,7 +39,7 @@ source_videos:
 
 ## 相关
 
-- [Operation Paperclip](../operation-paperclip.md) — 英文版
+- [Operation Paperclip](concepts-operation-paperclip) — 英文版
 
 ## 来源
 

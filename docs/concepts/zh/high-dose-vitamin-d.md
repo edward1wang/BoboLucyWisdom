@@ -49,10 +49,10 @@ source_posts:
 
 ## 相关
 
-- [维生素D](vitamin-d.md) — 一般概述
-- [维生素K2](vitamin-k2.md) — 必需辅助因子
-- [补剂服用时间](supplement-timing.md) — 何时服用
-- [安格斯·达格利什博士](../../entities/people/zh/dr-angus-dalgleish.md) — 临床免疫治疗背景
+- [维生素D](vitamin-d) — 一般概述
+- [维生素K2](vitamin-k2) — 必需辅助因子
+- [补剂服用时间](../supplement-timing) — 何时服用
+- [安格斯·达格利什博士](../../entities/people/dr-angus-dalgleish) — 临床免疫治疗背景
 
 ## 来源
 
@@ -61,5 +61,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-在我的账号里关于日常补充5000-10000IU的维生素D3-2050047562682368081)
 

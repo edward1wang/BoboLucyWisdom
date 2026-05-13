@@ -294,7 +294,7 @@ tags: [false-flag, psychological-warfare, alien-threat, disney, cattle-mutilatio
 5. 诱导听觉输入 (voice-to-skull technology)
 
 ## 相关文件
-- 英文分析版: [cosmic-false-flag-alien-threat](cosmic-false-flag-alien-threat.md)
+- 英文分析版: [cosmic-false-flag-alien-threat](cosmic-false-flag-alien-threat)
 
 ---
 *原始中文 transcript，2026-04-29*

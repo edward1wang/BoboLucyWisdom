@@ -37,9 +37,9 @@ Allegedly developed directed energy weapon (Tesla's words: "teleforce"). FBI fil
 
 ## Related
 
-- [tesla-coil](tesla-coil.md) — Invention
-- [wardenclyffe-tower](wardenclyffe-tower.md) — Free energy project
-- [fbi-tesla-files](fbi-tesla-files.md) — Seized after death
+- [tesla-coil](tesla-coil) — Invention
+- [wardenclyffe-tower](wardenclyffe-tower) — Free energy project
+- [fbi-tesla-files](fbi-tesla-files) — Seized after death
 
 ## Sources
 

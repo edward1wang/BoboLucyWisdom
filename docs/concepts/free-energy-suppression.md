@@ -43,9 +43,9 @@ Claim that working over-unity energy devices exist but are suppressed by powerfu
 
 ## Related
 
-- [zero-point-energy](zh/zero-point-energy.md) — Theoretical basis
-- [cold-fusion](cold-fusion.md) — Most famous case
-- [electric-universe](electric-universe.md) — Alternative physics
+- [zero-point-energy](zh/zero-point-energy) — Theoretical basis
+- [cold-fusion](cold-fusion) — Most famous case
+- [electric-universe](electric-universe) — Alternative physics
 
 ## Sources
 

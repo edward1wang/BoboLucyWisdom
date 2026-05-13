@@ -40,8 +40,8 @@ tags: [person, physicist, anti-gravity, electrogravitics, classified]
 
 ## 相关
 
-- [Thomas Townsend Brown](../thomas-townsend-brown.md) — 英文版
-- [费城实验](../../../concepts/zh/philadelphia-experiment.md) — 据称的参与
+- [Thomas Townsend Brown](entities-people-thomas-townsend-brown) — 英文版
+- [费城实验](concepts-zh-philadelphia-experiment) — 据称的参与
 
 ## 来源
 

@@ -37,10 +37,10 @@ source_posts:
 
 ## 相关
 
-- [自我效能](../../raw/articles/self-efficacy.md) — 对自己能力的信念
-- [成长型思维](growth-mindset.md) — 卡罗尔·德韦克框架
-- [斯多葛主义](../../raw/articles/stoicism.md) — 哲学基础
-- [控制点](../../raw/articles/locus-of-control.md) — 心理学概念
+- [自我效能](../../raw/articles/self-efficacy) — 对自己能力的信念
+- [成长型思维](growth-mindset) — 卡罗尔·德韦克框架
+- [斯多葛主义](../../raw/articles/stoicism) — 哲学基础
+- [控制点](../../raw/articles/locus-of-control) — 心理学概念
 
 ## 来源
 
@@ -49,5 +49,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-01-每当你觉得某种情况或某个人正在毁掉你的生活时实际上是你自己在-2050092858351157333.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-每当你觉得某种情况或某个人正在毁掉你的生活时实际上是你自己在-2050092858351157333)
 

@@ -41,9 +41,9 @@ Classified advanced weapons allegedly developed by military-industrial complex b
 
 ## Related
 
-- [nikola-tesla](../entities/people/zh/nikola-tesla.md) — Originator
-- [scalar-waves](zh/scalar-waves.md) — Theoretical basis
-- [directed-energy-weapons](directed-energy-weapons.md) — Modern equivalent
+- [nikola-tesla](../entities/people/zh/nikola-tesla) — Originator
+- [scalar-waves](scalar-waves) — Theoretical basis
+- [directed-energy-weapons](directed-energy-weapons) — Modern equivalent
 
 ## Sources
 

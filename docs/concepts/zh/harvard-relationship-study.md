@@ -47,10 +47,10 @@ source_posts:
 
 ## 相关
 
-- [长寿](longevity.md) — 更广泛的因素
-- [社会连接](social-connection.md) — 机制
-- [孤独](loneliness.md) — 健康影响
-- [人际关系](relationships.md) — 质量维护
+- [长寿](../longevity) — 更广泛的因素
+- [社会连接](social-connection) — 机制
+- [孤独](loneliness) — 健康影响
+- [人际关系](relationships) — 质量维护
 
 ## 来源
 
@@ -59,5 +59,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-哈佛大学花了80年的时间想要证明更有钱更聪明遗传基因更好的人-2049775772345446601)
 

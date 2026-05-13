@@ -45,8 +45,8 @@ source_posts:
 
 ## 相关
 
-- [Scalar Waves](scalar-waves.md) — 英文版
-- [奇异武器](exotic-weapons.md) — 军事应用
+- [Scalar Waves](concepts-zh-scalar-waves) — 英文版
+- [奇异武器](concepts-zh-exotic-weapons) — 军事应用
 
 ## 来源
 

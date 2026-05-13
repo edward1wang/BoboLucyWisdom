@@ -41,10 +41,10 @@ source_posts:
 
 ## 相关
 
-- [胰岛素抵抗](insulin-resistance.md) — 先决条件
-- [癌症的生酮饮食治疗](ketogenic-diet-cancer.md) — 重叠的代谢策略
-- [代谢灵活性](metabolic-flexibility.md) — 目标
-- [自噬](autophagy.md) — 细胞清理过程
+- [胰岛素抵抗](../insulin-resistance) — 先决条件
+- [癌症的生酮饮食治疗](ketogenic-diet-cancer) — 重叠的代谢策略
+- [代谢灵活性](metabolic-flexibility) — 目标
+- [自噬](autophagy) — 细胞清理过程
 
 ## 来源
 
@@ -54,5 +54,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-早餐不仅不是必须的而且是反自然的_我们需要重新训练自己的身体-2050032463423193581)
 

@@ -39,9 +39,9 @@ source_posts:
 
 ## 相关
 
-- [咖啡与痴呆预防](coffee-dementia-prevention.md) — 具体研究
-- [维生素D](vitamin-d.md) — 大脑健康
-- [哈佛成人发展研究](harvard-relationship-study.md) — 社交联系
+- [咖啡与痴呆预防](concepts-zh-coffee-dementia-prevention) — 具体研究
+- [维生素D](concepts-zh-vitamin-d) — 大脑健康
+- [哈佛成人发展研究](concepts-zh-harvard-relationship-study) — 社交联系
 
 ## 来源
 

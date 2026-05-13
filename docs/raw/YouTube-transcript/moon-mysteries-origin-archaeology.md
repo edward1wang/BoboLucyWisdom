@@ -60,7 +60,7 @@ Chinese documentary examining evidence contradicting the "giant impact" theory o
 ---
 
 ## Related Files
-- Chinese original: [moon-mysteries-origin-archaeology-zh](moon-mysteries-origin-archaeology-zh.md)
+- Chinese original: [moon-mysteries-origin-archaeology-zh](moon-mysteries-origin-archaeology-zh)
 
 ---
 *Analyzed from Chinese documentary, 2026-04-29*

@@ -48,9 +48,9 @@ source_posts:
 
 ## 相关
 
-- [间歇性禁食](intermittent-fasting.md) — 主要工具
-- [癌症的生酮饮食治疗](ketogenic-diet-cancer.md) — 极低碳水
-- [果糖与代谢健康](fructose-metabolic-health.md) — 抵抗的驱动因素
+- [间歇性禁食](concepts-zh-intermittent-fasting) — 主要工具
+- [癌症的生酮饮食治疗](concepts-zh-ketogenic-diet-cancer) — 极低碳水
+- [果糖与代谢健康](concepts-zh-fructose-metabolic-health) — 抵抗的驱动因素
 
 ## 来源
 

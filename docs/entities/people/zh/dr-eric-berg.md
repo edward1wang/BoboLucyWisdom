@@ -43,9 +43,9 @@ tags: [person, chiropractor, nutrition, keto, vitamin-d]
 
 ## 相关
 
-- [大剂量维生素D3疗法](../../../concepts/zh/high-dose-vitamin-d.md) —— 他的方案
-- [间歇性禁食](../../../concepts/zh/intermittent-fasting.md) —— 核心建议
-- [癌症的生酮饮食治疗](../../../concepts/zh/ketogenic-diet-cancer.md) —— 相邻方法
+- [大剂量维生素D3疗法](../../../concepts/zh/high-dose-vitamin-d) —— 他的方案
+- [间歇性禁食](../../../concepts/zh/intermittent-fasting) —— 核心建议
+- [癌症的生酮饮食治疗](../../../concepts/zh/ketogenic-diet-cancer) —— 相邻方法
 
 ## 来源
 

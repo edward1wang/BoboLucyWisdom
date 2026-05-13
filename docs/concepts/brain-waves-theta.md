@@ -44,10 +44,10 @@ Five brain wave frequencies correspond to different states of consciousness. The
 
 ## Related
 
-- [creativity-protocols](creativity-protocols.md) — Practical applications
-- [meditation](zh/meditation.md) — Overlapping practices
-- [flow-states](flow-states.md) — Gamma/theta connection
-- [nervous-system-regulation](../raw/articles/nervous-system-regulation.md) — Broader context
+- [creativity-protocols](creativity-protocols) — Practical applications
+- [meditation](meditation) — Overlapping practices
+- [flow-states](flow-states) — Gamma/theta connection
+- [nervous-system-regulation](../raw/articles/nervous-system-regulation) — Broader context
 
 ## Sources
 
@@ -57,5 +57,5 @@ Five brain wave frequencies correspond to different states of consciousness. The
 
 ### Original Source Files
 
-- [↩ X Post](../../../raw/x-posts/2026-05-01-我们有五种脑电波当处于西塔波时你的潜意识门户大开直觉力爆棚很-2050168356846842234.md.md)
+- [↩ X Post](../raw/x-posts/2026-05-01-我们有五种脑电波当处于西塔波时你的潜意识门户大开直觉力爆棚很-2050168356846842234)
 

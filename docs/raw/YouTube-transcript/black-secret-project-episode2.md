@@ -101,8 +101,8 @@ After atomic bomb: *"Now I am become Death, destroyer of worlds"*
 ---
 
 ## Related
-- Previous episode: [black-secret-project-ufo-origins](black-secret-project-ufo-origins.md)
-- Chinese original transcript: [black-secret-project-episode2-zh](black-secret-project-episode2-zh.md)
+- Previous episode: [black-secret-project-ufo-origins](black-secret-project-ufo-origins)
+- Chinese original transcript: [black-secret-project-episode2-zh](black-secret-project-episode2-zh)
 
 ---
 *Analyzed from Chinese documentary, 2026-04-29*

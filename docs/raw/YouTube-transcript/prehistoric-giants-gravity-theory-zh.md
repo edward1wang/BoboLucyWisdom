@@ -300,7 +300,7 @@ tags: [dinosaurs, prehistoric-giants, paleontology, gravity-theory, catastrophis
 - 需用电宇宙学重新理解重力
 
 ## 相关文件
-- 英文分析版: [prehistoric-giants-gravity-theory](prehistoric-giants-gravity-theory.md)
+- 英文分析版: [prehistoric-giants-gravity-theory](prehistoric-giants-gravity-theory)
 
 ---
 *原始中文 transcript，2026-04-29*

@@ -36,10 +36,10 @@ Mental training to observe thoughts without attachment. Gateway to focused atten
 
 ## Related
 
-- [mindfulness](zh/mindfulness.md) — Overlapping practice
-- [rumination-and-stress](zh/rumination-and-stress.md) — What meditation counters
-- [flow-states](flow-states.md) — Advanced outcome
-- [brain-waves-theta](zh/brain-waves-theta.md) — Brain state access
+- [mindfulness](mindfulness) — Overlapping practice
+- [rumination-and-stress](rumination-and-stress) — What meditation counters
+- [flow-states](flow-states) — Advanced outcome
+- [brain-waves-theta](zh/brain-waves-theta) — Brain state access
 
 ## Sources
 

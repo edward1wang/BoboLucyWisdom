@@ -32,9 +32,9 @@ His views challenge the pharmaceutical-driven model of oncology:
 
 ## Related
 
-- [vitamin-d](../../concepts/zh/vitamin-d.md) — His primary advocacy
-- [immunotherapy](immunotherapy.md) — Field where he discovered the D connection
-- [cancer-metabolic-therapy](cancer-metabolic-therapy.md) — Adjacent approaches
+- [vitamin-d](../../concepts/zh/vitamin-d) — His primary advocacy
+- [immunotherapy](immunotherapy) — Field where he discovered the D connection
+- [cancer-metabolic-therapy](cancer-metabolic-therapy) — Adjacent approaches
 
 ## Sources
 

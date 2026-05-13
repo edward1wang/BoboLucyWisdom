@@ -44,10 +44,10 @@ source_posts:
 
 ## 相关
 
-- [创造力方案](creativity-protocols.md) — 实际应用
-- [冥想](meditation.md) — 重叠实践
-- [心流状态](flow-states.md) — 伽马/西塔波连接
-- [神经系统调节](../../raw/articles/nervous-system-regulation.md) — 更广泛的背景
+- [创造力方案](creativity-protocols) — 实际应用
+- [冥想](../meditation) — 重叠实践
+- [心流状态](flow-states) — 伽马/西塔波连接
+- [神经系统调节](../../raw/articles/nervous-system-regulation) — 更广泛的背景
 
 ## 来源
 
@@ -57,5 +57,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-01-我们有五种脑电波当处于西塔波时你的潜意识门户大开直觉力爆棚很-2050168356846842234.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-01-我们有五种脑电波当处于西塔波时你的潜意识门户大开直觉力爆棚很-2050168356846842234)
 

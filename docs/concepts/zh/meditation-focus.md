@@ -43,10 +43,10 @@ source_posts:
 
 ## 相关
 
-- [脑电波与西塔波状态](brain-waves-theta.md) — 深度冥想脑状态
-- [正念](mindfulness.md) — 当下觉察
-- [心流状态](flow-states.md) — 巅峰表现
-- [反刍思维与压力](rumination-and-stress.md) — 管理侵入性念头
+- [脑电波与西塔波状态](brain-waves-theta) — 深度冥想脑状态
+- [正念](../mindfulness) — 当下觉察
+- [心流状态](flow-states) — 巅峰表现
+- [反刍思维与压力](../rumination-and-stress) — 管理侵入性念头
 
 ## 来源
 
@@ -55,5 +55,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-有人问每次静躺都会有各种杂念涌现怎么回事_其实这是一个很普遍-2049790877191782532)
 

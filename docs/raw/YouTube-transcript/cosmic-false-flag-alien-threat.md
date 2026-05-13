@@ -64,7 +64,7 @@ Chinese documentary on psychological operations using UFO/alien narrative for so
 ---
 
 ## Related Files
-- Chinese original: [cosmic-false-flag-alien-threat-zh](cosmic-false-flag-alien-threat-zh.md)
+- Chinese original: [cosmic-false-flag-alien-threat-zh](cosmic-false-flag-alien-threat-zh)
 
 ---
 *Analyzed from Chinese documentary, 2026-04-29*

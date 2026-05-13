@@ -28,9 +28,9 @@ Psychiatrist and researcher who directed the **Harvard Study of Adult Developmen
 
 ## Related
 
-- [harvard-relationship-study](../../concepts/zh/harvard-relationship-study.md) — His primary research
-- [longevity](../../concepts/zh/longevity.md) — Field of study
-- [positive-psychology](positive-psychology.md) — Academic discipline
+- [harvard-relationship-study](../../concepts/harvard-relationship-study) — His primary research
+- [longevity](../../concepts/longevity) — Field of study
+- [positive-psychology](positive-psychology) — Academic discipline
 
 ## Sources
 

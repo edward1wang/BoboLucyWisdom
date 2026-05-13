@@ -39,9 +39,9 @@ Intermittent fasting triggers autophagy in liver, muscle, and brain.
 
 ## Related
 
-- [intermittent-fasting](zh/intermittent-fasting.md) — Primary trigger
-- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer.md) — Sustained ketosis
-- [longevity](zh/longevity.md) — Aging connection
+- [intermittent-fasting](zh/intermittent-fasting) — Primary trigger
+- [ketogenic-diet-cancer](zh/ketogenic-diet-cancer) — Sustained ketosis
+- [longevity](longevity) — Aging connection
 
 ## Sources
 

@@ -59,9 +59,9 @@ source_posts:
 
 ## 相关
 
-- [间歇性禁食](intermittent-fasting.md) — 互补方法
-- [代谢灵活性](metabolic-flexibility.md) — 核心概念
-- [线粒体健康](mitochondrial-health.md) — 细胞层面
+- [间歇性禁食](intermittent-fasting) — 互补方法
+- [代谢灵活性](metabolic-flexibility) — 核心概念
+- [线粒体健康](mitochondrial-health) — 细胞层面
 
 ## 来源
 
@@ -72,5 +72,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-04-30-癌症细胞有个大问题_它们无法靠脂肪运转_你身体里健康的细胞如-2049753118343307553)
 

@@ -41,9 +41,9 @@ Historical concept: medium filling all space, allowing light to propagate.
 
 ## Related
 
-- [zero-point-energy](zh/zero-point-energy.md) — Modern aether theory
-- [tesla-free-energy](tesla-free-energy.md) — Tesla's aether model
-- [electric-universe](electric-universe.md) — Alternative cosmology
+- [zero-point-energy](zh/zero-point-energy) — Modern aether theory
+- [tesla-free-energy](tesla-free-energy) — Tesla's aether model
+- [electric-universe](electric-universe) — Alternative cosmology
 
 ## Sources
 

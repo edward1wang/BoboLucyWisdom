@@ -41,9 +41,9 @@ If deployed: end of energy scarcity, petrodollar collapse, geopolitical restruct
 
 ## Related
 
-- [free-energy-suppression](zh/free-energy-suppression.md) — Broader pattern
-- [cold-fusion](cold-fusion.md) — Related suppressed tech
-- [electric-universe](electric-universe.md) — Theoretical framework
+- [free-energy-suppression](zh/free-energy-suppression) — Broader pattern
+- [cold-fusion](cold-fusion) — Related suppressed tech
+- [electric-universe](electric-universe) — Theoretical framework
 
 ## Sources
 

@@ -42,9 +42,9 @@ tags: [mental-health, meditation, stress, present-moment]
 
 ## 相关
 
-- [冥想](meditation.md) — 正式练习
-- [反刍思维与压力](rumination-and-stress.md) — 正念所对抗的
-- [冥想与专注力](meditation-focus.md) — 专注方面
+- [冥想](concepts-zh-meditation) — 正式练习
+- [反刍思维与压力](concepts-zh-rumination-and-stress) — 正念所对抗的
+- [冥想与专注力](concepts-zh-meditation-focus) — 专注方面
 
 ## 来源
 

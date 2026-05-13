@@ -42,8 +42,8 @@ source_posts:
 
 ## 相关
 
-- [脱发逆转方案](hair-loss-reversal.md) — 主要应用
-- [睾酮优化](testosterone-optimization.md) — 父激素
+- [脱发逆转方案](concepts-zh-hair-loss-reversal) — 主要应用
+- [睾酮优化](concepts-zh-testosterone-optimization) — 父激素
 
 ## 来源
 

@@ -41,9 +41,9 @@ source_posts:
 
 ## 相关
 
-- [慢性疲劳](../../raw/articles/chronic-fatigue.md) — 相关状况
-- [神经系统调节](../../raw/articles/nervous-system-regulation.md) — 更广泛的主题
-- [正念](mindfulness.md) — 替代方法
+- [慢性疲劳](../../raw/articles/chronic-fatigue) — 相关状况
+- [神经系统调节](../../raw/articles/nervous-system-regulation) — 更广泛的主题
+- [正念](../mindfulness) — 替代方法
 
 ## 来源
 
@@ -52,5 +52,5 @@ source_posts:
 
 ### 原始来源文件
 
-- [↩ X Post原文](../../raw/x-posts/2026-05-02-一个苏黎世神经学家说了一句颠覆认知的话_大脑不是被压力累垮的-2050432594899345596.md.md)
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-一个苏黎世神经学家说了一句颠覆认知的话_大脑不是被压力累垮的-2050432594899345596)
 

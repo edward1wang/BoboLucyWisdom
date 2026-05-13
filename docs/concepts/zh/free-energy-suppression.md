@@ -45,8 +45,8 @@ source_posts:
 
 ## 相关
 
-- [Zero-Point Energy](zero-point-energy.md) — 理论基础
-- [Cold Fusion](concepts/zh/cold-fusion.md) — 最著名案例
+- [Zero-Point Energy](concepts-zh-zero-point-energy) — 理论基础
+- [Cold Fusion](concepts-zh-cold-fusion) — 最著名案例
 
 ## 来源
 

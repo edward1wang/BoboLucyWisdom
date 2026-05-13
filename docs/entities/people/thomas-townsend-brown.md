@@ -41,9 +41,9 @@ American physicist (1905-1985). Pioneer of electrogravitics — claimed high-vol
 
 ## Related
 
-- [philadelphia-experiment](../../concepts/zh/philadelphia-experiment.md) — Alleged involvement
-- [anti-gravity](anti-gravity.md) — Technology
-- [nikola-tesla](zh/nikola-tesla.md) — Theoretical precursor
+- [philadelphia-experiment](../../concepts/philadelphia-experiment) — Alleged involvement
+- [anti-gravity](anti-gravity) — Technology
+- [nikola-tesla](zh/nikola-tesla) — Theoretical precursor
 
 ## Sources
 

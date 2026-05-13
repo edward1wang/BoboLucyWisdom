@@ -36,9 +36,9 @@ source_posts:
 
 ## 相关
 
-- [哈佛成人发展研究](harvard-relationship-study.md) — 社交支柱
-- [间歇性禁食](intermittent-fasting.md) — 自噬触发
-- [维生素D](vitamin-d.md) — 基础
+- [哈佛成人发展研究](concepts-zh-harvard-relationship-study) — 社交支柱
+- [间歇性禁食](concepts-zh-intermittent-fasting) — 自噬触发
+- [维生素D](concepts-zh-vitamin-d) — 基础
 
 ## 来源
 

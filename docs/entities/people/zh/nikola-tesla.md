@@ -36,7 +36,7 @@ tags: [person, inventor, physicist, free-energy]
 
 ## 相关
 
-- [沃纳·冯·布劳恩](wernher-von-braun.md) — 火箭科学家
+- [沃纳·冯·布劳恩](entities-people-zh-wernher-von-braun) — 火箭科学家
 
 ## 来源
 

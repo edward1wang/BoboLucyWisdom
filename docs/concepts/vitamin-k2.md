@@ -44,9 +44,9 @@ High-dose D increases calcium absorption → K2 ensures it goes to bones, not ar
 
 ## Related
 
-- [vitamin-d](zh/vitamin-d.md) — Must pair with K2
-- [high-dose-vitamin-d](zh/high-dose-vitamin-d.md) — Critical cofactor
-- [calcium-absorption](calcium-absorption.md) — Bone health
+- [vitamin-d](zh/vitamin-d) — Must pair with K2
+- [high-dose-vitamin-d](zh/high-dose-vitamin-d) — Critical cofactor
+- [calcium-absorption](calcium-absorption) — Bone health
 
 ## Sources
 
